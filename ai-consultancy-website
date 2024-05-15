@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Consultancy - Home</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>AI Consultancy</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="services.html">Services</a></li>
+                    <li><a href="case-studies.html">Case Studies</a></li>
+                    <li><a href="blog.html">Blog</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <div class="hero">
+        <h2>Unlock the Power of AI for Your Business</h2>
+        <p>Transform your operations, enhance customer experiences, and drive growth with our expert AI consulting services.</p>
+        <button>Get a Free Consultation</button>
+    </div>
+    <div class="services">
+        <h2>Our Services</h2>
+        <p>AI Strategy Consulting, Data Analysis and Management, Custom AI Solutions, Training and Support</p>
+    </div>
+    <div class="testimonials">
+        <h2>What Our Clients Say</h2>
+        <p>"This company transformed our business with AI!"</p>
+        <p>"Incredible results and fantastic support."</p>
+    </div>
+    <footer>
+        <p>Contact us: info@aiconsultancy.com | Follow us on social media</p>
+    </footer>
+</body>
+</html>
